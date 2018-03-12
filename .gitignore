@@ -39,3 +39,11 @@ Icon
 # IntelliJ Files
 .idea
 target
+
+# ANT build artifacts
+build
+dist
+lib/icafe*.jar
+
+# MAVEN build artifacts
+target
